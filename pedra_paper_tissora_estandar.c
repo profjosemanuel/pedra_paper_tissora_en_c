@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
+//prueba
 int main() {
     int player_choice;
     int computer_choice;
